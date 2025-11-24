@@ -1,5 +1,7 @@
-cloud_assignment_12_justin
+# Cloud Assignment 12 - Justin
 
-This repository is used for practicing CI/CD workflows with GitHub Actions and Super-Linter.
+This repository contains files and solutions for Cloud Assignment 12.
 
-Additional commits were made due to a Cloudflare outage that caused interruptions during the workflow runs.
+## Description
+
+CI/CD tests
